@@ -14,7 +14,7 @@ This repository contains code for performing monocular and stereo camera calibra
 
 1. Clone the repository:
     ```bash
-    git clone <https://github.com/OlivierCrt/Calibration>
+    git clone https://github.com/OlivierCrt/Calibration
     ```
 
 2. Create and activate a Python environment:
